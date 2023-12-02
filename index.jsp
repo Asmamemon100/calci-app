@@ -1,6 +1,6 @@
 <html>
 				<head>
-				<title> Calci App  by Kamal Sir </title>
+				<title> Calci App  by Asma Memon </title>
 				<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 				<style> 
 								* { font-size:50px; font-family: Arial, Calibri, Cambria; }
